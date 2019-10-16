@@ -239,12 +239,6 @@ version = "0.8.2"
 deps = ["Random", "Serialization", "Sockets"]
 uuid = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 
-[[Distributions]]
-deps = ["LinearAlgebra", "PDMats", "Printf", "QuadGK", "Random", "SpecialFunctions", "Statistics", "StatsBase", "StatsFuns"]
-git-tree-sha1 = "b419fcf95ef9c8cf4d6610cd323890ad66d64240"
-uuid = "31c24e10-a181-5473-b8eb-7969acd0382f"
-version = "0.21.3"
-
 [[DocStringExtensions]]
 deps = ["LibGit2", "Markdown", "Pkg", "Test"]
 git-tree-sha1 = "88bb0edb352b16608036faadcc071adda068582a"
@@ -364,12 +358,6 @@ version = "0.10.3"
 [[InteractiveUtils]]
 deps = ["Markdown"]
 uuid = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
-
-[[Interpolations]]
-deps = ["AxisAlgorithms", "LinearAlgebra", "OffsetArrays", "Random", "Ratios", "SharedArrays", "SparseArrays", "StaticArrays", "WoodburyMatrices"]
-git-tree-sha1 = "e1bac96b5ef3ea23b50e801b4a988ec21861a47f"
-uuid = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
-version = "0.12.2"
 
 [[IterTools]]
 git-tree-sha1 = "2ebe60d7343962966d1779a74a760f13217a6901"
