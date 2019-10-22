@@ -1,5 +1,1 @@
-channels:
-  - conda-forge
 
-dependencies:
-  - appmode
